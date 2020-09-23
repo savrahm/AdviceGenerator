@@ -1,0 +1,15 @@
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\BadAdvice.exe
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\BadAdvice.deps.json
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\BadAdvice.runtimeconfig.json
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\BadAdvice.runtimeconfig.dev.json
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\BadAdvice.dll
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\BadAdvice.pdb
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.AssemblyInfo.cs
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.csproj.CopyComplete
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.dll
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.pdb
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\BadAdvice.genruntimeconfig.cache

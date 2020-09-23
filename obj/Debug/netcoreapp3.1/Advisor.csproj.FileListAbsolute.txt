@@ -1,0 +1,15 @@
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Advisor.exe
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Advisor.deps.json
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Advisor.runtimeconfig.json
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Advisor.runtimeconfig.dev.json
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Advisor.dll
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Advisor.pdb
+C:\Users\sarah\source\repos\KanyeWest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.AssemblyInfo.cs
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.csproj.CopyComplete
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.dll
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.pdb
+C:\Users\sarah\source\repos\KanyeWest\obj\Debug\netcoreapp3.1\Advisor.genruntimeconfig.cache
